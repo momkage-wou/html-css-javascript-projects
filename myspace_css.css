@@ -1,9 +1,13 @@
+body {
+    background-image: url("hearts-background.jpg");
+  }
 .profile-snapshot{
     height: 290px;
     width: 300px;
     border: 1px solid hotpink;
     border-radius: 10px;
     background-color: pink;
+    margin-bottom: 4px;
 }
 #header{
     margin: 2px;
